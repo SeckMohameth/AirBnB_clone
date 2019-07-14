@@ -4,9 +4,13 @@ body {
     color: #484848;
     font-size:14px;
     font-family:Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*This is hiding content below the suite information.
+    Couldn't get the footer to stay at the bottom. */
+    overflow: hidden;
 }
 
 .container {
     max-width: 1000px;
     margin: 30px auto 30px auto;
+
 }

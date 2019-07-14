@@ -1,0 +1,28 @@
+.places{
+    font-size: 30px;
+}
+
+article{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F solid 1px;
+    border-radius: 4px;
+}
+
+article .home,
+.tiny{
+margin-left: 500px;
+margin-top: -148px;
+}
+
+.suite{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+
+article h2{
+    font-size: 30px;
+    text-align: center;
+}
